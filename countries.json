@@ -1,0 +1,78 @@
+[
+  {
+    "region_name": "Southeast Asia",
+    "country_name": "Philippines"
+  },
+  {
+    "region_name": "Southeast Asia",
+    "country_name": "Vietnam"
+  },
+  {
+    "region_name": "East Asia",
+    "country_name": "China"
+  },
+  {
+    "region_name": "East Asia",
+    "country_name": "Japan"
+  },
+  {
+    "region_name": "East Asia",
+    "country_name": "Taiwan"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "Afghanistan"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "Sri Lanka"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "India"
+  },
+  {
+    "region_name": "North America",
+    "country_name": "United State"
+  },
+  {
+    "region_name": "North America",
+    "country_name": "Los Angeles"
+  },
+  {
+    "region_name": "North America",
+    "country_name": "Canada"
+  },
+  {
+    "region_name": "South America",
+    "country_name": "Argentina"
+  },
+  {
+    "region_name": "South America",
+    "country_name": "Peru"
+  },
+  {
+    "region_name": "Europe",
+    "country_name": "Spain"
+  },
+  {
+    "region_name": "Europe",
+    "country_name": "United Kingdom"
+  },
+  {
+    "region_name": "Europe",
+    "country_name": "France"
+  },
+  {
+    "region_name": "Africa",
+    "country_name": "South Africa"
+  },
+  {
+    "region_name": "Australia",
+    "country_name": "Australia"
+  },
+  {
+    "region_name": "Australia",
+    "country_name": "New Zealand"
+  }
+]

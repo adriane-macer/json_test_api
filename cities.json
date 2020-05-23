@@ -1,0 +1,122 @@
+[
+  {
+    "region_name": "Southeast Asia",
+    "country_name": "Philippines",
+    "city_name": "Pasig"
+  },
+  {
+    "region_name": "Southeast Asia",
+    "country_name": "Philippines",
+    "city_name": "Palawan"
+  },
+  {
+    "region_name": "Southeast Asia",
+    "country_name": "Vietnam",
+    "city_name": "Saigon"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "Vietnam",
+    "city_name": "Hanoi"
+  },
+  {
+    "region_name": "East Asia",
+    "country_name": "China",
+    "city_name": "Hongkong"
+  },
+  {
+    "region_name": "East Asia",
+    "country_name": "Japan",
+    "city_name": "Tokyo"
+  },
+  {
+    "region_name": "East Asia",
+    "country_name": "Taiwan",
+    "city_name": "Taipei"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "Afghanistan",
+    "city_name": "Kabul"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "Sri Lanka",
+    "city_name": "Colombo"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "India",
+    "city_name": "Mumbai"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "India",
+    "city_name": "Noida"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "India",
+    "city_name": "Bangalore"
+  },
+  {
+    "region_name": "South Asia",
+    "country_name": "India",
+    "city_name": "Calculatta"
+  },
+  {
+    "region_name": "North America",
+    "country_name": "United State",
+    "city_name": "New York"
+  },
+  {
+    "region_name": "North America",
+    "country_name": "Los Angeles",
+    "city_name": "Austin, Texas"
+  },
+  {
+    "region_name": "North America",
+    "country_name": "Canada",
+    "city_name": "Toronto"
+  },
+  {
+    "region_name": "South America",
+    "country_name": "Argentina",
+    "city_name": "Buenos Aires"
+  },
+  {
+    "region_name": "South America",
+    "country_name": "Peru",
+    "city_name": "Lima"
+  },
+  {
+    "region_name": "Europe",
+    "country_name": "Spain",
+    "city_name": "Madrid"
+  },
+  {
+    "region_name": "Europe",
+    "country_name": "United Kingdom",
+    "city_name": "London"
+  },
+  {
+    "region_name": "Europe",
+    "country_name": "France",
+    "city_name": "Paris"
+  },
+  {
+    "region_name": "Africa",
+    "country_name": "South Africa",
+    "city_name": "Johannesburg"
+  },
+  {
+    "region_name": "Australia",
+    "country_name": "Australia",
+    "city_name": "Sydney"
+  },
+  {
+    "region_name": "Australia",
+    "country_name": "New Zealand",
+    "city_name": "New Zealand"
+  }
+]
